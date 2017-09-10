@@ -1,0 +1,19 @@
+{
+  "name": "fullstackjs",
+  "version": "1.0.0",
+  "description": "simple application mongodb, nodejs, react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyzanuar/fullstackjs.git"
+  },
+  "author": "Benny Zanuarwan Putra Guchy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bennyzanuar/fullstackjs/issues"
+  },
+  "homepage": "https://github.com/bennyzanuar/fullstackjs#readme"
+}
